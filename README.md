@@ -27,7 +27,7 @@
 ## ✦ About Me
 
 ```yaml
-name: Shri Ram
+name: Shri Ram M
 role: Full-Stack Developer / AI-ML Engineer
 specialization:
   - SaaS product engineering
