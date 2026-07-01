@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=36&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shri+Ram;Full-Stack+Developer;AI%2FML+Engineer;Building+SaaS+%26+AI+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=36&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shri+Ram+M;Full-Stack+Developer;AI%2FML+Engineer;Building+SaaS+%26+AI+Products" alt="Typing SVG" />
 
 <br/>
 
@@ -128,9 +128,9 @@ An automation-based morning briefing system that categorizes emails, extracts ac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="52" alt="Supabase" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="52" alt="Docker" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="52" alt="Kubernetes" />
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="52" alt="AWS" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32" alt="AWS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="Git" />
-<img src="https://cdn.simpleicons.org/github/ffffff" height="52" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="VS Code" />
 
 </div>
