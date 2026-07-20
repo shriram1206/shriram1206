@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=36&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shri+Ram+M;Full-Stack+Developer;AI%2FML+Engineer;Building+SaaS+%26+AI+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=36&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shri+Ram+M;Applied+AI+Engineer;Agentic+Workflows;Building+AI+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -11,8 +11,8 @@
   <a href="mailto:shriram.coder@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/shriram1206">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://shriram-codecanvas.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -25,36 +25,33 @@
 ---
 
 ## ✦ About Me
-
 ```yaml
 name: Shri Ram M
-role: Full-Stack Developer / AI-ML Engineer
+role: Applied AI Engineer
 specialization:
-  - SaaS product engineering
-  - AI backend systems
-  - RAG pipelines and LLM integrations
-  - startup-minded product building
-location: Chennai, Tamil Nadu, India
+  - Agentic workflows and RAG architectures
+  - LLM orchestration and tool-calling
+  - Vector search optimizations
+  - AI-powered backend systems
+location: Namakkal, Tamil Nadu, India
 status: Open to work
 ```
 
-I build software that solves real workflow problems — from full-stack SaaS products to backend-heavy AI systems.  
-My focus is on shipping practical tools with strong engineering foundations, clean product thinking, and real-world usefulness.
+I build software that solves real workflow problems — from applied AI systems to backend-heavy orchestration engines. My focus is on shipping practical AI tools with strong engineering foundations, clean architectures, and real-world usefulness.
 
 ---
 
 ## ✦ Tech Stack
-
 <div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="52" alt="FastAPI" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" alt="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="52" alt="Spring Boot" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="52" alt="TypeScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="52" alt="React" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="52" alt="Next.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="52" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="52" alt="Python" />
 
 <br/><br/>
 
@@ -65,7 +62,6 @@ My focus is on shipping practical tools with strong engineering foundations, cle
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="52" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="32" alt="AWS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="52" alt="VS Code" />
 
 </div>
@@ -74,85 +70,77 @@ My focus is on shipping practical tools with strong engineering foundations, cle
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/RAG-161B22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-161B22?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI_GPT--4o-161B22?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+<img src="https://img.shields.io/badge/Llama_3-161B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-161B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pgvector-161B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG_Architectures-161B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic_AI-161B22?style=for-the-badge" />
 
 </div>
 
-
-
 ## ✦ Current Focus
-
-- Building AI-powered SaaS products with real user value
-- Exploring RAG, MCP-style workflows, and agentic automation
-- Improving backend architecture, system design, and product execution
-- Growing into full-stack and AI engineering roles with strong ownership
+- Architecting intelligent RAG pipelines and multi-agent systems.
+- Exploring cognitive frameworks, tool-calling, and LLM orchestration.
+- Improving backend architecture, system security, and data flow.
+- Growing into AI engineering roles with strong technical ownership.
 
 ---
 
-## ✦ Featured Projects
+### Axiom — Multi-Agent RAG Boardroom
+A production-grade multi-agent dashboard that simulates a corporate C-suite with department-scoped vector security policies and boardroom memory.
 
-### FeedbackWall
-A Canny-style SaaS platform for collecting product feedback through public boards, feature voting, changelogs, and embeddable widgets.
-
-**Why it matters**
-- Built as a real multi-tenant SaaS product
-- Focused on launch, usability, and product workflow design
-- Reflects product thinking, iteration, and execution
+**Key Differentiator**
+- Enforces strict database-level security isolation to prevent cross-agent context leakage.
+- Utilizes Python `asyncio` for concurrent, sub-second agent orchestration.
+- Reflects highly advanced multi-persona reasoning and shared-memory architectures.
 
 **Stack**  
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="32" alt="Supabase" />
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="32" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+  <img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat&color=black" height="32" alt="ChromaDB" />
 </p>
 
 ---
 
-### Quro
-An AI-powered natural-language-to-SQL assistant that translates English queries into safe SQL with backend validation.
+### Prompt Forge — AI Synthesis Engine
+A full-stack SaaS application that acts as a "compiler for AI" by synthesizing vague ideas into highly structured, FAANG-grade LLM prompts.
 
-**Why it matters**
-- Combines LLM integration with backend reliability
-- Uses SQL guardrails for safer execution
-- Solves a practical data-access problem beyond chatbot demos
+**Key Differentiator**
+- Dynamically applies over 78 cognitive frameworks based on task complexity.
+- Routes through Groq's Llama 3 API for ultra-fast, sub-200ms inference latency.
+- Secured with strict Supabase RLS policies and tier-based rate limiting.
+
+**Stack**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="32" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Groq-161B22?style=flat&color=black" height="32" alt="Groq" />
+</p>
+
+---
+
+### Quro — AI Database Assistant
+An intelligent natural-language-to-SQL engine that enables non-technical stakeholders to query databases safely in plain English.
+
+**Key Differentiator**
+- Combines LLM integration (GPT-4o) with strict backend reliability.
+- Enforces SQL validation guardrails to prevent injection attacks and unsafe operations.
+- Solves a highly practical data-access problem far beyond standard chatbot demos.
 
 **Stack**  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=flat&logo=openai&logoColor=white" height="32" alt="OpenAI" />
 </p>
-
----
-
-### Personal AI Assistant
-An automation-based morning briefing system that categorizes emails, extracts action items, and sends Telegram summaries.
-
-**Why it matters**
-- Demonstrates orchestration and automation thinking
-- Built for actual utility and time savings
-- Reflects practical AI workflow design
-
-**Stack**  
-<p>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71?viewbox=auto" height="32" alt="n8n" />
-  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" />
-  <img src="https://cdn.simpleicons.org/gmail/EA4335?viewbox=auto" height="32" alt="Gmail" />
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4?viewbox=auto" height="32" alt="Telegram" />
-</p>
-
----
-
 
 ---
 
 ## ✦ GitHub Stats
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shriram1206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -167,15 +155,13 @@ An automation-based morning briefing system that categorizes emails, extracts ac
 ---
 
 ## ✦ Beyond Code
-
-- Interested in startup building, AI-native products, and product strategy
-- Enjoy turning backend systems into end-user value
-- Prefer practical software with measurable usefulness over demo-only projects
+- Interested in AI-native architecture, cognitive frameworks, and system safety.
+- Enjoy turning backend systems into powerful, intelligent pipelines.
+- Prefer practical software with measurable usefulness over demo-only wrapper projects.
 
 ---
 
 ## ✦ Connect With Me
-
 <div align="center">
 
 <a href="https://linkedin.com/in/shriram-m-sde">
